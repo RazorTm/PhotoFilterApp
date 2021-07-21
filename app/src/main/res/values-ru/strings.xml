@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Фото Фильтр</string>
+    <string name="saved_images">Сохраненные Изображения</string>
+    <string name="edit_new_image">Начать</string>
+    <string name="apply_filter">Применить Фильтр</string>
+</resources>

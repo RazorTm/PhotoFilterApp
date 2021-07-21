@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="saved_images">Saved Images</string>
+    <string name="edit_new_image">Edit Image</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
