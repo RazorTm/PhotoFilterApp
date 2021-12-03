@@ -1,6 +1,6 @@
 # PhotoFilterApp
 
-A simple application for applying image filters.
+Application for applying image filters.
 
 ## Key Components:
 1. MVVM Architecture
